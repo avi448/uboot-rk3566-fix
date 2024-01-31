@@ -1,0 +1,1 @@
+cmd_drivers/mtd/spi/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/mtd/spi/built-in.o drivers/mtd/spi/sf-uclass.o drivers/mtd/spi/spi-nor.o drivers/mtd/spi/sf_mtd.o 

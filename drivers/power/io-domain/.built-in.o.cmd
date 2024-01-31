@@ -1,0 +1,1 @@
+cmd_drivers/power/io-domain/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/power/io-domain/built-in.o drivers/power/io-domain/io-domain-uclass.o drivers/power/io-domain/rockchip-io-domain.o 

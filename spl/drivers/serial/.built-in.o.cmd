@@ -1,0 +1,1 @@
+cmd_spl/drivers/serial/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/serial/built-in.o spl/drivers/serial/serial-uclass.o spl/drivers/serial/ns16550.o 

@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world.srec := /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-objcopy -O srec  examples/standalone/hello_world examples/standalone/hello_world.srec

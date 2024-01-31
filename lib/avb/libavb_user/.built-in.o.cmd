@@ -1,0 +1,1 @@
+cmd_lib/avb/libavb_user/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o lib/avb/libavb_user/built-in.o lib/avb/libavb_user/avb_ops_user.o lib/avb/libavb_user/avb_user_verification.o lib/avb/libavb_user/avb_user_verity.o 

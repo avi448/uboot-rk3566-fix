@@ -1,0 +1,3 @@
+drivers/rng/rockchip_rand.c:10:14:rand_r	48	static
+drivers/rng/rockchip_rand.c:31:14:rand	0	static
+drivers/rng/rockchip_rand.c:36:6:srand	0	static

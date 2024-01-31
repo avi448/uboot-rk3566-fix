@@ -1,0 +1,5 @@
+drivers/mtd/nand/spi/fmsh.c:33:12:fm25s01a_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/fmsh.c:39:12:fm25s01a_ooblayout_free	0	static
+drivers/mtd/nand/spi/fmsh.c:56:12:fm25s01_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/fmsh.c:96:12:fm25s01bi3_ecc_ecc_get_status	0	static
+drivers/mtd/nand/spi/fmsh.c:68:12:fm25s01_ooblayout_free	0	static

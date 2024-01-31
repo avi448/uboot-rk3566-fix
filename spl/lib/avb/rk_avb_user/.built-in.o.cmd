@@ -1,0 +1,1 @@
+cmd_spl/lib/avb/rk_avb_user/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/lib/avb/rk_avb_user/built-in.o spl/lib/avb/rk_avb_user/rk_avb_ops_user.o spl/lib/avb/rk_avb_user/rk_ab_ops_user.o 

@@ -1,0 +1,1 @@
+cmd_drivers/crypto/rsa_mod_exp/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/crypto/rsa_mod_exp/built-in.o drivers/crypto/rsa_mod_exp/mod_exp_uclass.o drivers/crypto/rsa_mod_exp/mod_exp_sw.o 

@@ -1,0 +1,1 @@
+cmd_drivers/nvme/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/nvme/built-in.o drivers/nvme/nvme-uclass.o drivers/nvme/nvme.o drivers/nvme/nvme_show.o 

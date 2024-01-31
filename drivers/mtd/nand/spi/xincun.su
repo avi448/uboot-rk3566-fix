@@ -1,0 +1,3 @@
+drivers/mtd/nand/spi/xincun.c:34:12:xcsp2aapk_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/xincun.c:46:12:xcsp2aapk_ooblayout_free	0	static
+drivers/mtd/nand/spi/xincun.c:64:12:xcsp2aapk_ecc_get_status	0	static

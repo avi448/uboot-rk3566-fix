@@ -1,0 +1,1 @@
+cmd_drivers/mmc/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/mmc/built-in.o drivers/mmc/mmc.o drivers/mmc/mmc-uclass.o drivers/mmc/mmc_write.o drivers/mmc/dw_mmc.o drivers/mmc/rockchip_dw_mmc.o drivers/mmc/rpmb.o drivers/mmc/sdhci.o drivers/mmc/rockchip_sdhci.o 

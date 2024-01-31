@@ -1,0 +1,3 @@
+drivers/power/regulator/gpio-regulator.c:96:12:gpio_regulator_set_value	48	static
+drivers/power/regulator/gpio-regulator.c:74:12:gpio_regulator_get_value	32	static
+drivers/power/regulator/gpio-regulator.c:27:12:gpio_regulator_ofdata_to_platdata	80	static

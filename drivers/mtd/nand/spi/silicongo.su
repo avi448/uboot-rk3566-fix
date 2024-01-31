@@ -1,0 +1,2 @@
+drivers/mtd/nand/spi/silicongo.c:33:12:sgm7000i_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/silicongo.c:39:12:sgm7000i_ooblayout_free	0	static

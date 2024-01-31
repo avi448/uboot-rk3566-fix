@@ -1,0 +1,1 @@
+cmd_spl/u-boot-spl-nodtb.bin := /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-objcopy  -j .text -j .secure_text -j .secure_data -j .rodata -j .data -j .u_boot_list -j .rela.dyn -j .got -j .got.plt -j .dtb.init.rodata -j .efi_runtime -j .efi_runtime_rel  -O binary  spl/u-boot-spl spl/u-boot-spl-nodtb.bin

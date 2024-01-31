@@ -1,0 +1,1 @@
+cmd_tools/resource_tool := /usr/bin/gcc -O2 -isystem /home/avi/Buildroot-2/buildroot/output/host/include -L/home/avi/Buildroot-2/buildroot/output/host/lib -Wl,-rpath,/home/avi/Buildroot-2/buildroot/output/host/lib -o tools/resource_tool tools/rockchip/resource_tool.o  

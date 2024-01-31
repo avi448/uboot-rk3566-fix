@@ -1,0 +1,2 @@
+drivers/video/drm/rockchip_crtc.c:229:12:rockchip_vop_bind	48	static
+drivers/video/drm/rockchip_crtc.c:202:12:rockchip_vop_probe	48	static

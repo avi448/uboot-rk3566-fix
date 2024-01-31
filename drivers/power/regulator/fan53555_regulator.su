@@ -1,0 +1,13 @@
+drivers/power/regulator/fan53555_regulator.c:407:12:fan53555_regulator_ofdata_to_platdata	48	static
+drivers/power/regulator/fan53555_regulator.c:139:5:fan53555_reg_read	32	static
+drivers/power/regulator/fan53555_regulator.c:233:12:fan53555_regulator_get_suspend_enable	32	static
+drivers/power/regulator/fan53555_regulator.c:198:12:fan53555_regulator_get_enable	32	static
+drivers/power/regulator/fan53555_regulator.c:268:12:fan53555_regulator_get_suspend_voltage	32	static
+drivers/power/regulator/fan53555_regulator.c:245:12:fan53555_regulator_get_voltage	32	static
+drivers/power/regulator/fan53555_regulator.c:429:12:fan53555_regulator_probe	48	static
+drivers/power/regulator/fan53555_regulator.c:151:5:fan53555_reg_write	32	static
+drivers/power/regulator/fan53555_regulator.c:163:6:fan53555_clrsetbits	48	static
+drivers/power/regulator/fan53555_regulator.c:217:12:fan53555_regulator_set_suspend_enable	32	static
+drivers/power/regulator/fan53555_regulator.c:176:12:fan53555_regulator_set_enable	32	static
+drivers/power/regulator/fan53555_regulator.c:280:12:fan53555_regulator_set_suspend_voltage	32	static
+drivers/power/regulator/fan53555_regulator.c:257:12:fan53555_regulator_set_voltage	32	static

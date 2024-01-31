@@ -1,0 +1,1 @@
+cmd_drivers/irq/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/irq/built-in.o drivers/irq/irq-gic.o drivers/irq/irq-gpio-v2.o drivers/irq/irq-generic.o drivers/irq/irq-gpio-switch.o drivers/irq/virq.o 

@@ -1,0 +1,1 @@
+cmd_dts/dt.dtb := ./tools/fdtgrep -b u-boot,dm-pre-reloc -b u-boot,dm-spl -RT arch/arm/dts/rk3566-radxa-cm3-io.dtb -n /chosen -n /config -O dtb | ./tools/fdtgrep -r -O dtb - -o dts/dt.dtb -P clock-names -P assigned-clocks -P assigned-clock-rates -P assigned-clock-parents

@@ -1,0 +1,1 @@
+cmd_spl/drivers/pinctrl/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/pinctrl/built-in.o spl/drivers/pinctrl/pinctrl-uclass.o spl/drivers/pinctrl/pinctrl-generic.o spl/drivers/pinctrl/nxp/built-in.o spl/drivers/pinctrl/pinctrl-rockchip.o spl/drivers/pinctrl/rockchip/built-in.o 

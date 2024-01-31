@@ -1,0 +1,17 @@
+lib/efi_loader/efi_console.c:421:20:efi_key_notify	0	static
+lib/efi_loader/efi_console.c:73:28:efi_cin_lock_std_in	16	static
+lib/efi_loader/efi_console.c:66:28:efi_cin_set_mode	16	static
+lib/efi_loader/efi_console.c:50:28:efi_cin_get_mode	48	static
+lib/efi_loader/efi_console.c:277:28:efi_cout_set_attribute	16	static
+lib/efi_loader/efi_console.c:260:28:efi_cout_set_mode	32	static
+lib/efi_loader/efi_console.c:173:28:efi_cout_test_string	16	static
+lib/efi_loader/efi_console.c:132:28:efi_cout_reset	16	static
+lib/efi_loader/efi_console.c:334:28:efi_cin_reset	16	static
+lib/efi_loader/efi_console.c:310:28:efi_cout_enable_cursor	32	static
+lib/efi_loader/efi_console.c:297:28:efi_cout_set_cursor_position	32	static
+lib/efi_loader/efi_console.c:287:28:efi_cout_clear_screen	16	static
+lib/efi_loader/efi_console.c:147:28:efi_cout_output_string	80	static
+lib/efi_loader/efi_console.c:342:28:efi_cin_read_key_stroke	48	static
+lib/efi_loader/efi_console.c:425:20:efi_console_timer_notify	16	static
+lib/efi_loader/efi_console.c:189:28:efi_cout_query_mode	80	static
+lib/efi_loader/efi_console.c:443:5:efi_console_register	32	static

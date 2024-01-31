@@ -1,0 +1,4 @@
+drivers/video/drm/rockchip_dw_hdmi.c:670:12:rockchip_dw_hdmi_probe	32	static
+drivers/video/drm/rockchip_dw_hdmi.c:344:6:drm_rk_selete_output	4752	static
+drivers/video/drm/rockchip_dw_hdmi.c:500:6:inno_dw_hdmi_set_domain	0	static
+drivers/video/drm/rockchip_dw_hdmi.c:508:6:dw_hdmi_set_iomux	48	static

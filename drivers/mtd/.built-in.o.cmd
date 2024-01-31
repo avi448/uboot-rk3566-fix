@@ -1,0 +1,1 @@
+cmd_drivers/mtd/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/mtd/built-in.o drivers/mtd/mtdcore.o drivers/mtd/mtd_uboot.o drivers/mtd/mtd-uclass.o drivers/mtd/mtd_blk.o drivers/mtd/mtdpart.o drivers/mtd/nand/built-in.o 

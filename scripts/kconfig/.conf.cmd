@@ -1,0 +1,1 @@
+cmd_scripts/kconfig/conf := /usr/bin/gcc -O2 -isystem /home/avi/Buildroot-2/buildroot/output/host/include -L/home/avi/Buildroot-2/buildroot/output/host/lib -Wl,-rpath,/home/avi/Buildroot-2/buildroot/output/host/lib -o scripts/kconfig/conf scripts/kconfig/conf.o scripts/kconfig/zconf.tab.o  

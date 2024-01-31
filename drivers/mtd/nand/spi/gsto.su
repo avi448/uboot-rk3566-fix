@@ -1,0 +1,2 @@
+drivers/mtd/nand/spi/gsto.c:33:12:gss0xgsak1_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/gsto.c:45:12:gss0xgsak1_ooblayout_free	0	static

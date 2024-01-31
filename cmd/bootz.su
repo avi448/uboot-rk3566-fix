@@ -1,0 +1,2 @@
+cmd/bootz.c:14:12:bootz_setup	16	static
+cmd/bootz.c:61:5:do_bootz	80	static

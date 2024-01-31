@@ -1,0 +1,11 @@
+drivers/mmc/sdhci.c:693:12:sdhci_set_enhanced_strobe	16	static
+drivers/mmc/sdhci.c:478:13:sdhci_card_busy	16	static
+drivers/mmc/sdhci.c:23:13:sdhci_reset	48	static
+drivers/mmc/sdhci.c:138:12:sdhci_send_command	112	static
+drivers/mmc/sdhci.c:647:12:sdhci_execute_tuning	112	static
+drivers/mmc/sdhci.c:317:6:sdhci_enable_clk	32	static
+drivers/mmc/sdhci.c:340:5:sdhci_set_clock	48	static
+drivers/mmc/sdhci.c:495:12:sdhci_set_ios	32	static
+drivers/mmc/sdhci.c:686:5:sdhci_probe	48	static
+drivers/mmc/sdhci.c:721:5:sdhci_setup_cfg	16	static
+drivers/mmc/sdhci.c:809:5:sdhci_bind	0	static

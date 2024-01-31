@@ -1,0 +1,5 @@
+cmd/bootefi.c:95:14:efi_do_enter	48	static
+cmd/bootefi.c:109:22:efi_run_in_el2	48	static
+cmd/bootefi.c:124:22:do_bootefi_exec	1344	static
+cmd/bootefi.c:220:12:do_bootefi	48	static
+cmd/bootefi.c:292:6:efi_set_bootdev	96	static

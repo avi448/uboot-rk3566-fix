@@ -1,0 +1,2 @@
+drivers/mtd/nand/spi/foresee.c:33:12:fsxxndxxg_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/foresee.c:39:12:fsxxndxxg_ooblayout_free	0	static

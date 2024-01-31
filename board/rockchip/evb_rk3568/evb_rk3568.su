@@ -1,0 +1,2 @@
+board/rockchip/evb_rk3568/evb_rk3568.c:23:5:usb_gadget_handle_interrupts	16	static
+board/rockchip/evb_rk3568/evb_rk3568.c:29:5:board_usb_init	0	static

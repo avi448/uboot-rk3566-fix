@@ -1,0 +1,5 @@
+drivers/mtd/nand/raw/nand.c:33:18:get_nand_dev_by_index	0	static
+drivers/mtd/nand/raw/nand.c:42:5:nand_mtd_to_devnum	16	static
+drivers/mtd/nand/raw/nand.c:55:5:nand_register	48	static
+drivers/mtd/nand/raw/nand.c:143:15:nand_size	0	static
+drivers/mtd/nand/raw/nand.c:148:6:nand_init	0	static

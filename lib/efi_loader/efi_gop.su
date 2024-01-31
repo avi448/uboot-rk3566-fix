@@ -1,0 +1,4 @@
+lib/efi_loader/efi_gop.c:49:28:gop_set_mode	32	static
+lib/efi_loader/efi_gop.c:34:28:gop_query_mode	48	static
+lib/efi_loader/efi_gop.c:59:28:gop_blt	96	static
+lib/efi_loader/efi_gop.c:129:5:efi_gop_register	80	static

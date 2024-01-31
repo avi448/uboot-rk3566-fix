@@ -1,0 +1,6 @@
+drivers/phy/phy-rockchip-snps-pcie3.c:276:12:rockchip_p3phy_configure	32	static
+drivers/phy/phy-rockchip-snps-pcie3.c:204:12:rochchip_p3phy_exit	32	static
+drivers/phy/phy-rockchip-snps-pcie3.c:178:12:rochchip_p3phy_init	48	static
+drivers/phy/phy-rockchip-snps-pcie3.c:213:12:rockchip_p3phy_probe	64	static
+drivers/phy/phy-rockchip-snps-pcie3.c:120:12:rockchip_p3phy_rk3588_init	48	static
+drivers/phy/phy-rockchip-snps-pcie3.c:68:12:rockchip_p3phy_rk3568_init	64	static

@@ -1,0 +1,1 @@
+cmd_drivers/ram/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/ram/built-in.o drivers/ram/ram-uclass.o drivers/ram/rockchip/built-in.o 

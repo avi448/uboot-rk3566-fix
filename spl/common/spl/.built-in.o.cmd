@@ -1,0 +1,1 @@
+cmd_spl/common/spl/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/common/spl/built-in.o spl/common/spl/spl.o spl/common/spl/spl_fit.o spl/common/spl/spl_nand.o spl/common/spl/spl_mmc.o spl/common/spl/spl_mtd_blk.o spl/common/spl/spl_atf.o spl/common/spl/spl_ab.o 

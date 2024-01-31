@@ -1,0 +1,1 @@
+cmd_tools/gen_ethaddr_crc := /usr/bin/gcc -O2 -isystem /home/avi/Buildroot-2/buildroot/output/host/include -L/home/avi/Buildroot-2/buildroot/output/host/lib -Wl,-rpath,/home/avi/Buildroot-2/buildroot/output/host/lib -o tools/gen_ethaddr_crc tools/gen_ethaddr_crc.o tools/lib/crc8.o  

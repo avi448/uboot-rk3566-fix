@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/spi/built-in.o drivers/spi/spi-uclass.o drivers/spi/spi-mem.o drivers/spi/rockchip_sfc.o 

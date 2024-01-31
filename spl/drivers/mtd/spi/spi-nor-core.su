@@ -1,0 +1,16 @@
+drivers/mtd/spi/spi-nor-core.c:146:12:read_sr	32	static
+drivers/mtd/spi/spi-nor-core.c:185:12:read_cr	32	static
+drivers/mtd/spi/spi-nor-core.c:914:12:spi_nor_read	64	static
+drivers/mtd/spi/spi-nor-core.c:111:16:spi_nor_write_data	96	static
+drivers/mtd/spi/spi-nor-core.c:73:16:spi_nor_read_data	112	static
+drivers/mtd/spi/spi-nor-core.c:452:12:spi_nor_wait_till_ready	80	static
+drivers/mtd/spi/spi-nor-core.c:47:12:spi_nor_read_reg	80	static
+drivers/mtd/spi/spi-nor-core.c:234:12:write_disable.isra	0	static
+drivers/mtd/spi/spi-nor-core.c:226:12:write_enable.isra	0	static
+drivers/mtd/spi/spi-nor-core.c:556:12:spi_nor_erase	128	static
+drivers/mtd/spi/spi-nor-core.c:1375:12:spansion_read_cr_quad_enable	48	static
+drivers/mtd/spi/spi-nor-core.c:1236:12:spi_nor_write	80	static
+drivers/mtd/spi/spi-nor-core.c:63:12:spi_nor_write_reg	80	static
+drivers/mtd/spi/spi-nor-core.c:1304:12:macronix_quad_enable	32	static
+drivers/mtd/spi/spi-nor-core.c:2475:5:spi_nor_scan	464	static
+drivers/mtd/spi/spi-nor-core.c:2647:5:spi_flash_cmd_get_sw_write_prot	16	static

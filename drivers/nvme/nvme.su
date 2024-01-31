@@ -1,0 +1,17 @@
+drivers/nvme/nvme.c:180:12:nvme_submit_sync_cmd	80	static
+drivers/nvme/nvme.c:337:13:nvme_init_queue	32	static
+drivers/nvme/nvme.c:325:13:nvme_free_queues	64	static
+drivers/nvme/nvme.c:733:14:nvme_blk_rw	256	static
+drivers/nvme/nvme.c:813:14:nvme_blk_write	0	static
+drivers/nvme/nvme.c:807:14:nvme_blk_read	0	static
+drivers/nvme/nvme.c:241:27:nvme_alloc_queue	64	static
+drivers/nvme/nvme.c:54:12:nvme_wait_ready	48	static
+drivers/nvme/nvme.c:832:12:nvme_bind	64	static
+drivers/nvme/nvme.c:234:12:nvme_submit_admin_cmd.isra	0	static
+drivers/nvme/nvme.c:449:5:nvme_identify	128	static
+drivers/nvme/nvme.c:692:12:nvme_blk_probe	64	static
+drivers/nvme/nvme.c:484:5:nvme_get_features	128	static
+drivers/nvme/nvme.c:512:5:nvme_set_features	128	static
+drivers/nvme/nvme.c:842:12:nvme_probe	192	static
+drivers/nvme/nvme.c:661:5:nvme_get_namespace_id	32	static
+drivers/nvme/nvme.c:673:5:nvme_scan_namespace	48	static

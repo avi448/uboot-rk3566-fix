@@ -1,0 +1,3 @@
+arch/arm/mach-rockchip/rk3568/clk_rk3568.c:13:5:rockchip_get_clk	0	static
+arch/arm/mach-rockchip/rk3568/clk_rk3568.c:27:7:rockchip_get_cru	32	static
+arch/arm/mach-rockchip/rk3568/clk_rk3568.c:48:7:rockchip_get_pmucru	32	static

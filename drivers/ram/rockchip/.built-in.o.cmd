@@ -1,0 +1,1 @@
+cmd_drivers/ram/rockchip/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/ram/rockchip/built-in.o drivers/ram/rockchip/sdram_common.o drivers/ram/rockchip/sdram_rk3568.o 

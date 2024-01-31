@@ -1,0 +1,2 @@
+lib/efi_loader/efi_device_path_to_text.c:91:25:efi_convert_device_node_to_text_ext	64	static
+lib/efi_loader/efi_device_path_to_text.c:107:25:efi_convert_device_path_to_text	0	static

@@ -1,0 +1,4 @@
+drivers/pinctrl/rockchip/pinctrl-rk3568.c:248:12:rk3568_set_drive	48	static
+drivers/pinctrl/rockchip/pinctrl-rk3568.c:109:12:rk3568_set_mux	0	static
+drivers/pinctrl/rockchip/pinctrl-rk3568.c:220:12:rk3568_set_pull	48	static
+drivers/pinctrl/rockchip/pinctrl-rk3568.c:289:12:rk3568_set_schmitt	0	static

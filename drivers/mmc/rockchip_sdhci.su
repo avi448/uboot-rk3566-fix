@@ -1,0 +1,13 @@
+drivers/mmc/rockchip_sdhci.c:474:12:dwcmshc_emmc_get_phy	0	static
+drivers/mmc/rockchip_sdhci.c:592:12:rockchip_sdhci_of_to_plat	32	static
+drivers/mmc/rockchip_sdhci.c:500:12:rockchip_sdhci_set_enhanced_strobe	32	static
+drivers/mmc/rockchip_sdhci.c:479:12:rockchip_sdhci_set_clock	32	static
+drivers/mmc/rockchip_sdhci.c:490:13:rockchip_sdhci_set_ios_post	32	static
+drivers/mmc/rockchip_sdhci.c:517:12:rockchip_sdhci_probe	96	static
+drivers/mmc/rockchip_sdhci.c:604:12:rockchip_sdhci_bind	32	static
+drivers/mmc/rockchip_sdhci.c:438:12:dwcmshc_sdhci_set_enhanced_strobe	16	static
+drivers/mmc/rockchip_sdhci.c:283:12:rk3399_emmc_get_phy	48	static
+drivers/mmc/rockchip_sdhci.c:456:13:dwcmshc_sdhci_set_ios_post	0	static
+drivers/mmc/rockchip_sdhci.c:203:12:rockchip_emmc_set_clock	48	static
+drivers/mmc/rockchip_sdhci.c:329:12:dwcmshc_sdhci_emmc_set_clock	48	static
+drivers/mmc/rockchip_sdhci.c:311:12:rk3399_sdhci_emmc_set_clock	48	static

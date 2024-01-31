@@ -1,0 +1,1 @@
+cmd_spl/drivers/mtd/nand/nandcore.o := /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/mtd/nand/nandcore.o spl/drivers/mtd/nand/core.o spl/drivers/mtd/nand/bbt.o 

@@ -1,0 +1,1 @@
+cmd_spl/drivers/pinctrl/rockchip/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/pinctrl/rockchip/built-in.o spl/drivers/pinctrl/rockchip/pinctrl-rockchip-core.o spl/drivers/pinctrl/rockchip/pinctrl-rk3568.o 

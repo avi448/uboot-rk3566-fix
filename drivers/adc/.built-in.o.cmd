@@ -1,0 +1,1 @@
+cmd_drivers/adc/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/adc/built-in.o drivers/adc/adc-uclass.o drivers/adc/rockchip-saradc.o 

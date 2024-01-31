@@ -1,0 +1,1 @@
+cmd_drivers/input/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/input/built-in.o drivers/input/key-uclass.o drivers/input/input.o drivers/input/key_matrix.o drivers/input/rk8xx_pwrkey.o drivers/input/adc_key.o 

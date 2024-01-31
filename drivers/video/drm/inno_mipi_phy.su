@@ -1,0 +1,6 @@
+drivers/video/drm/inno_mipi_phy.c:626:12:inno_mipi_dphy_power_off	16	static
+drivers/video/drm/inno_mipi_phy.c:719:12:inno_mipi_dphy_probe	32	static
+drivers/video/drm/inno_mipi_phy.c:399:13:inno_mipi_dphy_lane_timing_init	160	static
+drivers/video/drm/inno_mipi_phy.c:606:12:inno_mipi_dphy_power_on	32	static
+drivers/video/drm/inno_mipi_phy.c:683:12:inno_mipi_dphy_init	32	static
+drivers/video/drm/inno_mipi_phy.c:638:22:inno_mipi_dphy_set_pll	32	static

@@ -1,0 +1,1 @@
+cmd_spl/drivers/misc/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/misc/built-in.o spl/drivers/misc/misc-uclass.o spl/drivers/misc/misc_otp.o spl/drivers/misc/rockchip-otp.o 

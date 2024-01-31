@@ -1,0 +1,16 @@
+lib/efi_loader/efi_net.c:169:13:efi_net_push	0	static
+lib/efi_loader/efi_net.c:174:28:efi_net_receive	48	static
+lib/efi_loader/efi_net.c:127:28:efi_net_get_status	32	static
+lib/efi_loader/efi_net.c:117:28:efi_net_nvdata	16	static
+lib/efi_loader/efi_net.c:98:28:efi_net_statistics	16	static
+lib/efi_loader/efi_net.c:89:28:efi_net_station_address	16	static
+lib/efi_loader/efi_net.c:76:28:efi_net_receive_filters	16	static
+lib/efi_loader/efi_net.c:61:28:efi_net_reset	16	static
+lib/efi_loader/efi_net.c:37:28:efi_net_start	16	static
+lib/efi_loader/efi_net.c:143:28:efi_net_transmit	48	static
+lib/efi_loader/efi_net.c:51:28:efi_net_initialize	16	static
+lib/efi_loader/efi_net.c:107:28:efi_net_mcastiptomac	16	static
+lib/efi_loader/efi_net.c:44:28:efi_net_stop	16	static
+lib/efi_loader/efi_net.c:69:28:efi_net_shutdown	16	static
+lib/efi_loader/efi_net.c:202:6:efi_net_set_dhcp_ack	48	static
+lib/efi_loader/efi_net.c:213:5:efi_net_register	144	static

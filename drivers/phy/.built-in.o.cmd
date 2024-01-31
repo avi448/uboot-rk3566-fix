@@ -1,0 +1,1 @@
+cmd_drivers/phy/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/phy/built-in.o drivers/phy/phy-uclass.o drivers/phy/phy-rockchip-inno-usb2.o drivers/phy/phy-rockchip-naneng-edp.o drivers/phy/phy-rockchip-snps-pcie3.o drivers/phy/phy-rockchip-naneng-combphy.o 

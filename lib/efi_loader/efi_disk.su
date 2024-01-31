@@ -1,0 +1,6 @@
+lib/efi_loader/efi_disk.c:161:28:efi_disk_flush_blocks	16	static
+lib/efi_loader/efi_disk.c:40:28:efi_disk_reset	16	static
+lib/efi_loader/efi_disk.c:175:13:efi_disk_add_dev.part.0.constprop	64	static
+lib/efi_loader/efi_disk.c:91:28:efi_disk_read_blocks	64	static
+lib/efi_loader/efi_disk.c:126:28:efi_disk_write_blocks	64	static
+lib/efi_loader/efi_disk.c:258:5:efi_disk_register	208	static

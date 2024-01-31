@@ -1,0 +1,1 @@
+cmd_spl/arch/arm/mach-rockchip/rk3568/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/arch/arm/mach-rockchip/rk3568/built-in.o spl/arch/arm/mach-rockchip/rk3568/syscon_rk3568.o spl/arch/arm/mach-rockchip/rk3568/rk3568.o spl/arch/arm/mach-rockchip/rk3568/clk_rk3568.o 

@@ -1,0 +1,5 @@
+lib/sha512.c:158:12:sha512_process	704	static
+lib/sha512.c:107:5:sha512_starts	0	static
+lib/sha512.c:236:5:sha512_update	64	static
+lib/sha512.c:281:5:sha512_finish	48	static
+lib/sha512.c:338:6:sha512_csum	256	static

@@ -1,0 +1,11 @@
+drivers/video/drm/analogix_dp.c:51:1:analogix_dp_enable_rx_to_enhanced_mode	48	static
+drivers/video/drm/analogix_dp.c:78:13:analogix_dp_set_enhanced_mode	48	static
+drivers/video/drm/analogix_dp.c:213:13:analogix_dp_reduce_link_rate	32	static
+drivers/video/drm/analogix_dp.c:930:12:analogix_dp_connector_detect	16	static
+drivers/video/drm/analogix_dp.c:748:12:analogix_dp_connector_init	48	static
+drivers/video/drm/analogix_dp.c:1017:12:analogix_dp_probe	80	static
+drivers/video/drm/analogix_dp.c:913:12:analogix_dp_connector_disable	48	static
+drivers/video/drm/analogix_dp.c:162:12:analogix_dp_clock_recovery_ok	0	static
+drivers/video/drm/analogix_dp.c:221:13:analogix_dp_get_adjust_training_lane	0	static
+drivers/video/drm/analogix_dp.c:769:12:analogix_dp_connector_get_edid	112	static
+drivers/video/drm/analogix_dp.c:833:12:analogix_dp_connector_enable	144	static

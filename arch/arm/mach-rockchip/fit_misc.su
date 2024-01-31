@@ -1,0 +1,2 @@
+arch/arm/mach-rockchip/fit_misc.c:157:6:board_fit_image_post_process	128	static
+arch/arm/mach-rockchip/fit_misc.c:240:5:fit_board_verify_required_sigs	32	static

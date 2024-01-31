@@ -1,0 +1,3 @@
+common/spl/spl_mtd_blk.c:71:14:mtd_spl_load_read	0	static
+common/spl/spl_mtd_blk.c:41:18:find_mtd_device	48	static
+common/spl/spl_mtd_blk.c:103:5:spl_mtd_load_image	224	static

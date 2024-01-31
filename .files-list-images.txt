@@ -1,0 +1,3 @@
+uboot,./u-boot.itb
+uboot,./u-boot.bin
+uboot,./u-boot-spl.bin

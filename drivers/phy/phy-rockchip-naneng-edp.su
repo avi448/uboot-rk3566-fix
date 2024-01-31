@@ -1,0 +1,4 @@
+drivers/phy/phy-rockchip-naneng-edp.c:365:12:rockchip_edp_phy_power_off	32	static
+drivers/phy/phy-rockchip-naneng-edp.c:325:12:rockchip_edp_phy_power_on	32	static
+drivers/phy/phy-rockchip-naneng-edp.c:393:12:rockchip_edp_phy_probe	32	static
+drivers/phy/phy-rockchip-naneng-edp.c:292:12:rockchip_edp_phy_configure	96	static

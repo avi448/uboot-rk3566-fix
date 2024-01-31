@@ -1,0 +1,11 @@
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:97:13:rockchip_nand_wait_dev_ready	32	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:406:12:rockchip_nandc_bind	48	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:304:12:rockchip_nandc_probe	80	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:171:12:nandc_read_page	96	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:266:12:spl_nand_read_page	96	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:261:12:spl_nand_block_isbad	48	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:430:6:board_nand_init	32	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:443:5:nand_spl_load_image	0	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:448:6:nand_init	0	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:450:5:rk_nand_init	0	static
+drivers/mtd/nand/raw/rockchip_nand_spl_v9.c:574:6:nand_deselect	0	static

@@ -1,0 +1,7 @@
+drivers/pci/pci_rom.c:43:13:board_should_run_oprom	0	static
+drivers/pci/pci_rom.c:57:13:board_should_load_oprom	0	static
+drivers/pci/pci_rom.c:62:17:board_map_oprom_vendev	0	static
+drivers/pci/pci_rom.c:205:6:setup_video	0	static
+drivers/pci/pci_rom.c:234:5:dm_pci_run_vga_bios	96	static
+drivers/pci/pci_rom.c:327:5:vbe_setup_video_priv	0	static
+drivers/pci/pci_rom.c:352:5:vbe_setup_video	48	static

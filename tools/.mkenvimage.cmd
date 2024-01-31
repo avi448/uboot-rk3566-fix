@@ -1,0 +1,1 @@
+cmd_tools/mkenvimage := /usr/bin/gcc -O2 -isystem /home/avi/Buildroot-2/buildroot/output/host/include -L/home/avi/Buildroot-2/buildroot/output/host/lib -Wl,-rpath,/home/avi/Buildroot-2/buildroot/output/host/lib -o tools/mkenvimage tools/mkenvimage.o tools/os_support.o tools/lib/crc32.o  

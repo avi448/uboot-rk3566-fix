@@ -1,0 +1,1 @@
+cmd_drivers/sysreset/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/sysreset/built-in.o drivers/sysreset/sysreset-uclass.o drivers/sysreset/sysreset-syscon-reboot.o drivers/sysreset/sysreset_psci.o drivers/sysreset/sysreset_rockchip.o 

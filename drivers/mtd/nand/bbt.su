@@ -1,0 +1,6 @@
+drivers/mtd/nand/bbt.c:43:12:nanddev_read_bbt	144	static
+drivers/mtd/nand/bbt.c:238:5:nanddev_bbt_init	32	static
+drivers/mtd/nand/bbt.c:260:6:nanddev_bbt_cleanup	0	static
+drivers/mtd/nand/bbt.c:384:5:nanddev_bbt_set_block_status	0	static
+drivers/mtd/nand/bbt.c:345:5:nanddev_bbt_get_block_status	128	static
+drivers/mtd/nand/bbt.c:275:5:nanddev_bbt_update	240	static

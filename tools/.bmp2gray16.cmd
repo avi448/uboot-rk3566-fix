@@ -1,0 +1,1 @@
+cmd_tools/bmp2gray16 := /usr/bin/gcc -O2 -isystem /home/avi/Buildroot-2/buildroot/output/host/include -L/home/avi/Buildroot-2/buildroot/output/host/lib -Wl,-rpath,/home/avi/Buildroot-2/buildroot/output/host/lib -o tools/bmp2gray16 tools/rockchip/bmp2gray16.o  

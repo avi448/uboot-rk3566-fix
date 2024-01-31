@@ -1,0 +1,13 @@
+drivers/mtd/nand/spi/gigadevice.c:70:12:gd5fxgq4xa_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/gigadevice.c:82:12:gd5fxgq4xa_ooblayout_free	0	static
+drivers/mtd/nand/spi/gigadevice.c:104:12:gd5fxgq4xa_ecc_get_status	0	static
+drivers/mtd/nand/spi/gigadevice.c:128:12:gd5fxgqx_variant2_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/gigadevice.c:140:12:gd5fxgqx_variant2_ooblayout_free	0	static
+drivers/mtd/nand/spi/gigadevice.c:159:12:gd5fxgq4xc_ooblayout_256_ecc	0	static
+drivers/mtd/nand/spi/gigadevice.c:171:12:gd5fxgq4xc_ooblayout_256_free	0	static
+drivers/mtd/nand/spi/gigadevice.c:188:12:gd5fxgqx_variant3_ooblayout_ecc	0	static
+drivers/mtd/nand/spi/gigadevice.c:291:12:gd5fxgq4ufxxg_ecc_get_status	0	static
+drivers/mtd/nand/spi/gigadevice.c:254:12:gd5fxgq5xexxg_ecc_get_status	80	static
+drivers/mtd/nand/spi/gigadevice.c:212:12:gd5fxgq4uexxg_ecc_get_status	96	static
+drivers/mtd/nand/spi/gigadevice.c:553:12:gigadevice_spinand_init	80	static
+drivers/mtd/nand/spi/gigadevice.c:194:12:gd5fxgqx_variant3_ooblayout_free	0	static

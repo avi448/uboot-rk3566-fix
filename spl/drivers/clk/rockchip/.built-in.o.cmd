@@ -1,0 +1,1 @@
+cmd_spl/drivers/clk/rockchip/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/clk/rockchip/built-in.o spl/drivers/clk/rockchip/clk_pll.o spl/drivers/clk/rockchip/clk_rk3568.o 

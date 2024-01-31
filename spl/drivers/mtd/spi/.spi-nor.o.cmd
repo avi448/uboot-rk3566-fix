@@ -1,0 +1,1 @@
+cmd_spl/drivers/mtd/spi/spi-nor.o := /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/mtd/spi/spi-nor.o spl/drivers/mtd/spi/sf_probe.o spl/drivers/mtd/spi/spi-nor-ids.o spl/drivers/mtd/spi/spi-nor-core.o 

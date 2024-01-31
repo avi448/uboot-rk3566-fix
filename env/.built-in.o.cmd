@@ -1,0 +1,1 @@
+cmd_env/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o env/built-in.o env/common.o env/env.o env/attr.o env/callback.o env/flags.o env/nowhere.o 

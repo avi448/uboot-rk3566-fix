@@ -1,0 +1,4 @@
+drivers/pci/pci_auto.c:21:6:dm_pciauto_setup_device	112	static
+drivers/pci/pci_auto.c:165:6:dm_pciauto_prescan_setup_bridge	80	static
+drivers/pci/pci_auto.c:247:6:dm_pciauto_postscan_setup_bridge	80	static
+drivers/pci/pci_auto.c:306:5:dm_pciauto_config_device	80	static

@@ -1,0 +1,1 @@
+cmd_spl/drivers/clk/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/clk/built-in.o spl/drivers/clk/clk-uclass.o spl/drivers/clk/clk_fixed_rate.o spl/drivers/clk/rockchip/built-in.o spl/drivers/clk/tegra/built-in.o 

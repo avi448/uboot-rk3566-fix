@@ -1,0 +1,1 @@
+cmd_drivers/net/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o drivers/net/built-in.o drivers/net/eth-phy-uclass.o drivers/net/gmac_rockchip.o drivers/net/dwc_eth_qos.o 

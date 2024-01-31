@@ -1,0 +1,1 @@
+cmd_spl/drivers/crypto/built-in.o :=  /home/avi/Buildroot-2/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld.bfd     -r -o spl/drivers/crypto/built-in.o spl/drivers/crypto/crypto-uclass.o spl/drivers/crypto/rsa_mod_exp/built-in.o spl/drivers/crypto/fsl/built-in.o spl/drivers/crypto/rockchip/built-in.o 

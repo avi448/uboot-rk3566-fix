@@ -1,0 +1,3 @@
+cmd/mtd.c:87:13:mtd_show_parts	64	static
+cmd/mtd.c:37:13:mtd_dump_buf	96	static
+cmd/mtd.c:226:12:do_mtd	224	static

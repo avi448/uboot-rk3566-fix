@@ -1,0 +1,16 @@
+drivers/video/drm/drm_dp_helper.c:172:12:drm_dp_dpcd_access	96	static
+drivers/video/drm/drm_dp_helper.c:444:13:drm_dp_i2c_msg_set_request.isra	0	static
+drivers/video/drm/drm_dp_helper.c:335:12:drm_dp_i2c_do_msg	80	static
+drivers/video/drm/drm_dp_helper.c:52:6:drm_dp_channel_eq_ok	0	static
+drivers/video/drm/drm_dp_helper.c:71:6:drm_dp_clock_recovery_ok	0	static
+drivers/video/drm/drm_dp_helper.c:85:4:drm_dp_get_adjust_request_voltage	0	static
+drivers/video/drm/drm_dp_helper.c:97:4:drm_dp_get_adjust_request_pre_emphasis	0	static
+drivers/video/drm/drm_dp_helper.c:109:6:drm_dp_link_train_clock_recovery_delay	32	static
+drivers/video/drm/drm_dp_helper.c:123:6:drm_dp_link_train_channel_eq_delay	32	static
+drivers/video/drm/drm_dp_helper.c:137:4:drm_dp_link_rate_to_bw_code	16	static
+drivers/video/drm/drm_dp_helper.c:154:5:drm_dp_bw_code_to_link_rate	16	static
+drivers/video/drm/drm_dp_helper.c:225:9:drm_dp_dpcd_read	48	static
+drivers/video/drm/drm_dp_helper.c:242:9:drm_dp_dpcd_write	16	static
+drivers/video/drm/drm_dp_helper.c:253:5:drm_dp_dpcd_read_link_status	16	static
+drivers/video/drm/drm_dp_helper.c:301:5:drm_dp_read_dpcd_caps	48	static
+drivers/video/drm/drm_dp_helper.c:482:5:drm_dp_i2c_xfer	144	static
