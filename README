@@ -1,3 +1,7 @@
+Temporary fix for DMC_FSP issues on Buildroot image. See thread: https://forum.radxa.com/t/buildroot-image-failing-ram-stress-test-possible-u-boot-issue
+
+------------------------------------------------------------------------------------------------
+
 #
 # (C) Copyright 2000 - 2013
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
